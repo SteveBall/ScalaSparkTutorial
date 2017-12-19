@@ -1,0 +1,28 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="CompileDirty@NavBarToolbar" count="2" />
+      <entry action="ExternalSystem.AttachProject@SBT_View_Toolbar" count="1" />
+      <entry action="ExternalSystem.ShowSettings@SBT_View_Toolbar" count="1" />
+      <entry action="PlantUML.Reload@unknown" count="1" />
+      <entry action="PlantUML.ZoomIn@unknown" count="1" />
+      <entry action="PlantUML.ZoomOut@unknown" count="1" />
+      <entry action="Rerun@RunnerToolbar" count="15" />
+      <entry action="Run@NavBarToolbar" count="120" />
+      <entry action="ShowProjectStructureSettings@NavBarToolbar" count="1" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="2" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="2" />
+      <entry action="com.intellij.find.SearchTextArea$NewLineAction@unknown" count="2" />
+      <entry action="com.intellij.ide.errorTreeView.NewErrorTreeViewPanel$RerunAction@CompilerMessagesToolbar" count="2" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.CommonContentEntriesEditor$AddContentEntryAction@unknown" count="14" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleExcludedStateAction@ProjectStructureContentEntries" count="1" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleSourcesStateAction@ProjectStructureContentEntries" count="39" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryRootsComponent$1@ToolbarDecorator" count="1" />
+      <entry action="com.intellij.openapi.vcs.changes.ui.ChangesTreeList$6@ChangesBrowser" count="1" />
+      <entry action="com.intellij.openapi.vcs.changes.ui.ChangesTreeList$7@ChangesBrowser" count="1" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="26" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="9" />
+      <entry action="com.intellij.ui.navigation.BackAction@ProjectStructure" count="4" />
+    </counts>
+  </component>
+</application>
